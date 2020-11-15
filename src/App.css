@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+.card{
+  width: 120vmin;
+  height: 150vmin;
+  left:20%;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
