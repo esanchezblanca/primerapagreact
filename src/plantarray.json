@@ -1,0 +1,15 @@
+{
+    "plantarray": [
+        {
+            "name": "Palmera cinta",
+            "urlimg": "https://begreen.imgix.net/5e419ede2ce8f040609387.jpg",
+            "description": "Natural de Egipto. Necesita mucha agua y mucha luz. Colócala en una zona luminosa para que te alegre la casa"
+        },
+
+        {
+            "name": "Ave del paraíso",
+            "urlimg": "https://begreen.imgix.net/5fa3e5a272eb5893328820.jpg",
+            "description": "Es una planta tropical muy decorativa y de fácil cuidado. Lleva bien el clima templado y no pierde sus hojas durante el año."
+        }
+    ]
+}
