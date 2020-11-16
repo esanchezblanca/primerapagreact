@@ -7,6 +7,14 @@
   pointer-events: none;
 }
 
+.navButtons{
+  margin-right: 1em;
+}
+
+.menu{
+  margin-left: 1em;
+}
+
 .card{
   width: 120vmin;
   height: 150vmin;

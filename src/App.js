@@ -40,7 +40,10 @@ class App extends Component {
                  <a href="" className="text-white">
                 Plants
                 </a>
-
+                <div className='navButtons'>
+                    <input type='button' value='Home'></input>
+                    <input type='button' className='menu' value='Menu'></input>
+                </div>
             </nav>
 
             {plantarray}
